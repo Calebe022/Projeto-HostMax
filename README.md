@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">A estrutura HTML foi criada utilizando elementos semânticos para organizar o conteúdo de maneira clara e acessível. O uso de tags como <header>, <main> e <footer> contribuiu para a melhor legibilidade do código e para a otimização de SEO.</p>
+<p align="left">A estrutura HTML foi criada utilizando elementos semânticos para organizar o conteúdo de maneira clara e acessível. O uso de tags como header, main e footer contribuiu para a melhor legibilidade do código e para a otimização de SEO.</p>
 
 ###
 
