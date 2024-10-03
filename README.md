@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">O design foi elaborado utilizando CSS para garantir que a aparência visual do site fosse atraente e moderna. Cores e fontes foram escolhidas cuidadosamente para refletir a identidade da marca hDC HOST, proporcionando um visual profissional.<br>A barra de navegação permite fácil acesso às principais seções do site, incluindo "Home", "Preços", "Contato" e um botão de "Entrar". A seção principal apresenta um banner com o nome da empresa e uma breve descrição dos serviços.</p>
+<p align="left">O design foi elaborado utilizando CSS para garantir que a aparência visual do site fosse atraente e moderna. Cores e fontes foram escolhidas cuidadosamente para refletir a identidade da marca HostMax, proporcionando um visual profissional.<br>A barra de navegação permite fácil acesso às principais seções do site, incluindo "Home", "Preços", "Contato" e um botão de "Entrar". A seção principal apresenta um banner com o nome da empresa e uma breve descrição dos serviços.</p>
 
 ###
 
